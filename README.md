@@ -1,6 +1,6 @@
 # Bikcraft - Landing Page
 
-![Bikcraft Logo](img/bikcraft.svg)
+![Bikcraft Logo](/img/bikcraft.svg)
 
 ## 📝 Descrição
 
